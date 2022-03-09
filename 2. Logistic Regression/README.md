@@ -1,3 +1,6 @@
-# logistic-regression
+# Logistic Regression
 
-Logistic regression implemented in Octave for the course "Machine Learning" by Andrew Ng
+* Regularized logistic regression cost function 
+* Unregularized cost and prediction functions
+* Sigmoid function
+* Some graph plots
